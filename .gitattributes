@@ -8,3 +8,4 @@ build/** linguist-vendored
 .vscode/** linguist-vendored
 **/CMakeLists.txt linguist-generated
 **/Makefile linguist-generated
+**/Makefile.am linguist-generated
